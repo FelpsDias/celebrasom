@@ -1,0 +1,6 @@
+{
+  "name": "Celebra Som",
+  "description": "Banda ao vivo com formação completa (Sax, Teclado, Guitarra, Baixo e Bateria) para Casamentos, Eventos Corporativos, Aniversários e Backing Band.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
